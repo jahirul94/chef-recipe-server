@@ -2,49 +2,49 @@
   {
     "id": 1,
     "name": "Gordon Ramsay",
-    "picture": "https://www.example.com/gordon-ramsay.jpg",
-    "experience": 3,
-    "recipes": 4 ,
-    "likes": 100000
+    "picture": "https://plus.unsplash.com/premium_photo-1663047080777-a060630ed770?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "experience":"4 years",
+    "recipes": 4,
+    "likes": 1000
   },
   {
     "id": 2,
-    "name": "Ina Garten",
-    "picture": "https://www.example.com/ina-garten.jpg",
-    "experience": 40,
-    "recipes": 150,
-    "likes": 80000
+    "name": "Mark Adair",
+    "picture": "https://images.unsplash.com/photo-1488905971602-47901d26961b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "experience":"2.5 years",
+    "recipes": 5,
+    "likes": 8000
   },
   {
     "id": 3,
     "name": "Bobby Flay",
-    "picture": "https://www.example.com/bobby-flay.jpg",
-    "experience": 35,
-    "recipes": 175,
-    "likes": 90000
+    "picture": "https://plus.unsplash.com/premium_photo-1664475300338-139f4621939f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "experience":"5 years",
+    "recipes": 3,
+    "likes": 900
   },
   {
     "id": 4,
     "name": "Julia Child",
-    "picture": "https://www.example.com/julia-child.jpg",
-    "experience": 50,
-    "recipes": 100,
-    "likes": 75000
+    "picture": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS5qwJUPhnSv4hhdLZaGY77JMN6s-K2-t-yMc_dtMAO4xzh49u4JQ7GuveXCvMKp_y9DFduvS-u-g097R0",
+    "experience": "1 years",
+    "recipes": 2,
+    "likes": 7500
   },
   {
     "id": 5,
     "name": "Emeril Lagasse",
-    "picture": "https://www.example.com/emeril-lagasse.jpg",
-    "experience": 45,
-    "recipes": 120,
-    "likes": 85000
+    "picture": "https://pbs.twimg.com/media/FlEva9sXkAA524A?format=jpg&name=large",
+    "experience":"3 years",
+    "recipes": 4,
+    "likes": 8500
   },
   {
     "id": 6,
     "name": "Nigella Lawson",
-    "picture": "https://www.example.com/nigella-lawson.jpg",
-    "experience": 25,
-    "recipes": 250,
-    "likes": 95000
+    "picture": "https://plus.unsplash.com/premium_photo-1664475451484-9bd935c86f3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "experience": "2 years",
+    "recipes": 3,
+    "likes": 950
   }
 ]
