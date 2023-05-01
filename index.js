@@ -1,12 +1,16 @@
 const express = require('express');
 const app = express();
+const port = 5000 ;
+const data = require ('./data.json')
+app.get('/', ( req , res )=>{
+    res.send('shape is cooking')
 
-app.get('/', (req, res) => {
-  res.send('Hello World fvdgs!');
-});
+})
 
+app.get('/data' , (req , res ) =>{
+     res.send(data)
+})
 
-
-app.listen(5000, () => {
-  console.log('Server started on port 5000');
-});
+app.listen(port , ()=>{
+    console.log(`Dragon news Running on port`);
+})
