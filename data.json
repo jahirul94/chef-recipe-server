@@ -4,7 +4,7 @@
     "name": "Gordon Ramsay",
     "picture": "https://plus.unsplash.com/premium_photo-1663047080777-a060630ed770?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     "experience":"4 years",
-    "recipes": 4,
+    "recipes": 5,
     "likes": 1000
   },
   {
@@ -12,7 +12,7 @@
     "name": "Mark Adair",
     "picture": "https://images.unsplash.com/photo-1488905971602-47901d26961b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "experience":"2.5 years",
-    "recipes": 5,
+    "recipes": 4,
     "likes": 8000
   },
   {
@@ -20,7 +20,7 @@
     "name": "Bobby Flay",
     "picture": "https://plus.unsplash.com/premium_photo-1664475300338-139f4621939f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
     "experience":"5 years",
-    "recipes": 3,
+    "recipes": 6,
     "likes": 900
   },
   {
@@ -28,7 +28,7 @@
     "name": "Julia Child",
     "picture": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS5qwJUPhnSv4hhdLZaGY77JMN6s-K2-t-yMc_dtMAO4xzh49u4JQ7GuveXCvMKp_y9DFduvS-u-g097R0",
     "experience": "1 years",
-    "recipes": 2,
+    "recipes": 5,
     "likes": 7500
   },
   {
@@ -44,7 +44,7 @@
     "name": "Nigella Lawson",
     "picture": "https://plus.unsplash.com/premium_photo-1664475451484-9bd935c86f3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
     "experience": "2 years",
-    "recipes": 3,
+    "recipes": 4,
     "likes": 950
   }
 ]
