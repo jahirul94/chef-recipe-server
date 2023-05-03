@@ -2,225 +2,253 @@
     {
       "id": 1,
       "name": "Hamburger",
-      "recipe": "1 lb ground beef, 1 egg, 1/4 cup bread crumbs, 1/4 cup chopped onion, 1/4 tsp salt, 1/8 tsp pepper, 4 hamburger buns",
+      "ingredients": "1 lb ground beef, 1 egg, 1/4 cup bread crumbs, 1/4 cup chopped onion, 1/4 tsp salt, 1/8 tsp pepper, 4 hamburger buns , one plate",
       "picture": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "category_id": 1,
-      "rating" : 3.5
+      "rating" : 3.5,
+      "cooking_method": "To cook Hamburger, start by boiling water in a large pot and adding salt to the water. Add macaroni to the boiling water and cook it for about 8-10 minutes or until it's al dente."
     },
     {
       "id": 2,
       "name": "Mac and Cheese",
-      "recipe": "1 lb elbow macaroni, 1/4 cup butter, 1/4 cup flour, 2 cups milk, 2 cups shredded cheddar cheese, salt and pepper to taste",
+      "ingredients": "1 lb elbow macaroni, 1/4 cup butter, 1/4 cup flour, 2 cups milk, 2 cups shredded cheddar cheese, salt and pepper to taste",
       "picture": "https://images.unsplash.com/photo-1510693206972-df098062cb71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=698&q=80",
       "category_id": 1,
-      "rating" : 4.4
+      "rating" : 4.4 ,
+       "cooking_method" : "To cook Mac and Cheese, start by boiling water in a large pot and adding salt to the water. Add macaroni to the boiling water and cook it for about 8-10 minutes or until it's al dente."
     },
     {
       "id": 3,
       "name": "Fried Chicken",
-      "recipe": "2 lbs chicken drumsticks, 2 cups buttermilk, 2 cups flour, 2 tsp salt, 1 tsp pepper, 1 tsp paprika, 1 tsp garlic powder, oil for frying",
+      "ingredients": "2 lbs chicken drumsticks, 2 cups buttermilk, 2 cups flour, 2 tsp salt, 1 tsp pepper, 1 tsp paprika, 1 tsp garlic powder, oil for frying",
       "picture": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
       "category_id": 1,
-      "rating" : 3.8
+      "rating" : 3.8,
+      "cooking_method": "To cook Fried Chicken, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
     },
     {
       "id": 4,
       "name": "BBQ Ribs",
-      "recipe": "3 lbs pork spare ribs, 1/2 cup brown sugar, 1/4 cup paprika, 1 tbsp garlic powder, 1 tbsp onion powder, 1 tsp cayenne pepper, BBQ sauce",
+      "ingredients": "3 lbs pork spare ribs, 1/2 cup brown sugar, 1/4 cup paprika, 1 tbsp garlic powder, 1 tbsp onion powder, 1 tsp cayenne pepper, BBQ sauce",
       "picture": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
       "category_id": 1,
-      "rating" : 4.4
+      "rating" : 4.4,
+      "cooking_method": "To cook BBQ Ribs, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
     },
     {
       "id": 5,
       "name": "Meatloaf",
-      "recipe": "1 lb ground beef, 1/2 cup bread crumbs, 1/2 cup milk, 1/4 cup chopped onion, 1 egg, 2 tbsp Worcestershire sauce, 1 tsp salt, 1/2 tsp black pepper",
+      "ingredients": "1 lb ground beef, 1/2 cup bread crumbs, 1/2 cup milk, 1/4 cup chopped onion, 1 egg, 2 tbsp Worcestershire sauce, 1 tsp salt, 1/2 tsp black pepper",
       "picture": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
       "category_id": 5,
-      "rating" : 3.5
+      "rating" : 3.5,
+      "cooking_method": "To cook Meatloaf, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
     },
     {
       "id": 6,
       "name": "Mashed Potatoes",
-      "recipe": "4 large potatoes, 1/4 cup butter, 1/4 cup milk, salt and pepper to taste",
+      "ingredients": "4 large potatoes, 1/4 cup butter, 1/4 cup milk, salt and pepper to taste",
       "picture": "https://images.unsplash.com/photo-1633436375153-d7045cb93e38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
       "category_id": 2,
-      "rating" : 3.0
+      "rating" : 3.0,
+      "cooking_method": "To cook Mashed Potatoes, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
     },
     {
       "id": 7,
       "name": "Chili",
-      "recipe": "1 lb ground beef, 1 onion, 1 green pepper, 2 cans kidney beans, 1 can diced tomatoes, 1 can tomato sauce, 2 tbsp chili powder, 1 tsp cumin",
+      "ingredients": "1 lb ground beef, 1 onion, 1 green pepper, 2 cans kidney beans, 1 can diced tomatoes, 1 can tomato sauce, 2 tbsp chili powder, 1 tsp cumin",
       "picture": "https://plus.unsplash.com/premium_photo-1675864532625-60efd11cde54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
       "category_id": 2,
-      "rating" : 4.0
+      "rating" : 4.0,
+      "cooking_method": "To cook Chili, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
     },
     {
       "id": 8,
       "name": "Cornbread",
-      "recipe": "1 cup cornmeal, 1 cup flour, 1/4 cup sugar, 1 tsp salt, 1 tbsp baking powder, 1 cup milk, 1 egg, 1/4 cup oil",
+      "ingredients": "1 cup cornmeal, 1 cup flour, 1/4 cup sugar, 1 tsp salt, 1 tbsp baking powder, 1 cup milk, 1 egg, 1/4 cup oil",
       "picture": "https://plus.unsplash.com/premium_photo-1668618293956-0ba712d7f4f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
       "category_id": 2,
-      "rating" : 4.5
+      "rating" : 4.5,
+      "cooking_method": "To cook Cornbread, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
     },
      {
         "id": 9,
         "name": "Pulled Pork Sandwich",
-        "recipe": "2 lbs pork shoulder, 1 onion, 1 cup barbecue sauce, 1/2 cup chicken broth, 1 tsp garlic powder, 1 tsp smoked paprika, 1/2 tsp salt, 1/2 tsp black pepper, 4 hamburger buns",
+        "ingredients": "2 lbs pork shoulder, 1 onion, 1 cup barbecue sauce, 1/2 cup chicken broth, 1 tsp garlic powder, 1 tsp smoked paprika, 1/2 tsp salt, 1/2 tsp black pepper, 4 hamburger buns",
         "picture": "https://plus.unsplash.com/premium_photo-1664476636559-6dbd29f4c31e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
         "category_id": 2,
-        "rating" : 3.5
+        "rating" : 3.5,
+        "cooking_method": "To cook Pulled Pork Sandwich, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 10,
         "name": "Buffalo Wings",
-        "recipe": "2 lbs chicken wings, 1/2 cup hot sauce, 1/4 cup melted butter, 1 tbsp honey, 1 tsp garlic powder, 1 tsp paprika, 1/2 tsp cayenne pepper",
+        "ingredients": "2 lbs chicken wings, 1/2 cup hot sauce, 1/4 cup melted butter, 1 tbsp honey, 1 tsp garlic powder, 1 tsp paprika, 1/2 tsp cayenne pepper",
         "picture": "https://images.unsplash.com/photo-1608039755401-742074f0548d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
         "category_id": 3,
-        "rating" : 5.0
+        "rating" : 5.0,
+        "cooking_method": "To cook Buffalo Wings, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 11,
         "name": "Grilled Cheese Sandwich",
-        "recipe": "4 slices bread, 2 tbsp butter, 2 slices cheddar cheese",
+        "ingredients": "4 slices bread, 2 tbsp butter, 2 slices cheddar cheese",
         "picture": "https://images.unsplash.com/photo-1528736235302-52922df5c122?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=954&q=80",
         "category_id": 3,
-        "rating" : 4.0
+        "rating" : 4.0,
+        "cooking_method": "To cook Grilled Cheese Sandwich, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 12,
         "name": "Corn on the Cob",
-        "recipe": "4 ears of corn, 4 tbsp butter, salt and pepper to taste",
+        "ingredients": "4 ears of corn, 4 tbsp butter, salt and pepper to taste",
         "picture": "https://images.unsplash.com/photo-1548365329-6adbd5e89128?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
         "category_id": 3,
-        "rating" : 3.0
+        "rating" : 3.0,
+        "cooking_method": "To cook Corn on the Cob, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 13,
         "name": "Potato Salad",
-        "recipe": "2 lbs potatoes, 1/2 cup mayonnaise, 1/4 cup chopped onion, 1/4 cup chopped celery, 2 tbsp chopped fresh parsley, 1 tbsp Dijon mustard, 1 tsp salt, 1/2 tsp black pepper",
+        "ingredients": "2 lbs potatoes, 1/2 cup mayonnaise, 1/4 cup chopped onion, 1/4 cup chopped celery, 2 tbsp chopped fresh parsley, 1 tbsp Dijon mustard, 1 tsp salt, 1/2 tsp black pepper",
         "picture": "https://plus.unsplash.com/premium_photo-1676313449501-8ed94e22a65b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "category_id": 3,
-        "rating" : 3.5
+        "rating" : 3.5,
+        "cooking_method": "To cook Potato Salad, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 14,
         "name": "Apple Pie",
-        "recipe": "1 pie crust, 6 cups sliced apples, 1/2 cup sugar, 1/4 cup flour, 1 tsp cinnamon, 1/4 tsp nutmeg, 2 tbsp butter",
+        "ingredients": "1 pie crust, 6 cups sliced apples, 1/2 cup sugar, 1/4 cup flour, 1 tsp cinnamon, 1/4 tsp nutmeg, 2 tbsp butter",
         "picture": "https://images.unsplash.com/photo-1562007908-17c67e878c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "category_id": 3,
-        "rating" : 4.1
+        "rating" : 4.1,
+        "cooking_method": "To cook Apple Pie, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 15,
         "name": "Hamburger",
-        "recipe": "1 lb ground beef, 1 egg, 1/4 cup bread crumbs, 1/4 cup chopped onion, 1/4 tsp salt, 1/8 tsp pepper, 4 hamburger buns",
+        "ingredients": "1 lb ground beef, 1 egg, 1/4 cup bread crumbs, 1/4 cup chopped onion, 1/4 tsp salt, 1/8 tsp pepper, 4 hamburger buns",
         "picture": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "category_id": 3,
-        "rating" : 5.0
+        "rating" : 5.0,
+        "cooking_method": "To cook delicious hamburgers, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 16,
         "name": "Mac and Cheese",
-        "recipe": "1 lb elbow macaroni, 1/4 cup butter, 1/4 cup flour, 2 cups milk, 2 cups shredded cheddar cheese, salt and pepper to taste",
+        "ingredients": "1 lb elbow macaroni, 1/4 cup butter, 1/4 cup flour, 2 cups milk, 2 cups shredded cheddar cheese, salt and pepper to taste",
         "picture": "https://images.unsplash.com/photo-1510693206972-df098062cb71?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=698&q=80",
         "category_id": 4,
-        "rating" : 3.5
+        "rating" : 3.5,
+        "cooking_method": "To cook delicious Mac and Cheese, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 17,
         "name": "Fried Chicken",
-        "recipe": "2 lbs chicken drumsticks, 2 cups buttermilk, 2 cups flour, 2 tsp salt, 1 tsp pepper, 1 tsp paprika, 1 tsp garlic powder, oil for frying",
+        "ingredients": "2 lbs chicken drumsticks, 2 cups buttermilk, 2 cups flour, 2 tsp salt, 1 tsp pepper, 1 tsp paprika, 1 tsp garlic powder, oil for frying",
         "picture": "https://images.unsplash.com/photo-1626645738196-c2a7c87a8f58?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
         "category_id": 4,
-        "rating" : 4.4
+        "rating" : 4.4,
+        "cooking_method": "To cook Fried Chicken, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 18,
         "name": "BBQ Ribs",
-        "recipe": "3 lbs pork spare ribs, 1/2 cup brown sugar, 1/4 cup paprika, 1 tbsp garlic powder, 1 tbsp onion powder, 1 tsp cayenne pepper, BBQ sauce",
+        "ingredients": "3 lbs pork spare ribs, 1/2 cup brown sugar, 1/4 cup paprika, 1 tbsp garlic powder, 1 tbsp onion powder, 1 tsp cayenne pepper, BBQ sauce",
         "picture": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
         "category_id": 4,
-        "rating" : 4.0
+        "rating" : 4.0,
+        "cooking_method": "To cook BBQ Ribs, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 19,
         "name": "Meatloaf",
-        "recipe": "1 lb ground beef, 1/2 cup bread crumbs, 1/2 cup milk, 1/4 cup chopped onion, 1 egg, 2 tbsp Worcestershire sauce, 1 tsp salt, 1/2 tsp black pepper",
+        "ingredients": "1 lb ground beef, 1/2 cup bread crumbs, 1/2 cup milk, 1/4 cup chopped onion, 1 egg, 2 tbsp Worcestershire sauce, 1 tsp salt, 1/2 tsp black pepper",
         "picture": "https://images.unsplash.com/photo-1544025162-d76694265947?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
         "category_id": 4,
-        "rating" : 4.9
+        "rating" : 4.9,
+        "cooking_method": "To cook Meatloaf, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 20,
         "name": "Mashed Potatoes",
-        "recipe": "4 large potatoes, 1/4 cup butter, 1/4 cup milk, salt and pepper to taste",
+        "ingredients": "4 large potatoes, 1/4 cup butter, 1/4 cup milk, salt and pepper to taste",
         "picture": "https://images.unsplash.com/photo-1633436375153-d7045cb93e38?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
         "category_id": 4,
-        "rating" : 4.6
+        "rating" : 4.6,
+        "cooking_method": "To cook Mashed Potatoes, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 21,
         "name": "Chili",
-        "recipe": "1 lb ground beef, 1 onion, 1 green pepper, 2 cans kidney beans, 1 can diced tomatoes, 1 can tomato sauce, 2 tbsp chili powder, 1 tsp cumin",
+        "ingredients": "1 lb ground beef, 1 onion, 1 green pepper, 2 cans kidney beans, 1 can diced tomatoes, 1 can tomato sauce, 2 tbsp chili powder, 1 tsp cumin",
         "picture": "https://plus.unsplash.com/premium_photo-1675864532625-60efd11cde54?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
         "category_id": 5,
-        "rating" : 4.4
+        "rating" : 4.4,
+        "cooking_method": "To cook delicious Chili, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
       {
         "id": 22,
         "name": "Cornbread",
-        "recipe": "1 cup cornmeal, 1 cup flour, 1/4 cup sugar, 1 tsp salt, 1 tbsp baking powder, 1 cup milk, 1 egg, 1/4 cup oil",
+        "ingredients": "1 cup cornmeal, 1 cup flour, 1/4 cup sugar, 1 tsp salt, 1 tbsp baking powder, 1 cup milk, 1 egg, 1/4 cup oil",
         "picture": "https://plus.unsplash.com/premium_photo-1668618293956-0ba712d7f4f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
         "category_id": 5,
-        "rating" : 4.5
+        "rating" : 4.5,
+        "cooking_method": "To cook Cornbread, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
       },
        {
           "id": 23,
           "name": "Pulled Pork Sandwich",
-          "recipe": "2 lbs pork shoulder, 1 onion, 1 cup barbecue sauce, 1/2 cup chicken broth, 1 tsp garlic powder, 1 tsp smoked paprika, 1/2 tsp salt, 1/2 tsp black pepper, 4 hamburger buns",
+          "ingredients": "2 lbs pork shoulder, 1 onion, 1 cup barbecue sauce, 1/2 cup chicken broth, 1 tsp garlic powder, 1 tsp smoked paprika, 1/2 tsp salt, 1/2 tsp black pepper, 4 hamburger buns",
           "picture": "https://plus.unsplash.com/premium_photo-1664476636559-6dbd29f4c31e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
           "category_id": 6,
-          "rating" : 3.5
+          "rating" : 3.5,
+          "cooking_method": "To cook Pulled Pork Sandwich, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
         },
         {
           "id": 24,
           "name": "Buffalo Wings",
-          "recipe": "2 lbs chicken wings, 1/2 cup hot sauce, 1/4 cup melted butter, 1 tbsp honey, 1 tsp garlic powder, 1 tsp paprika, 1/2 tsp cayenne pepper",
+          "ingredients": "2 lbs chicken wings, 1/2 cup hot sauce, 1/4 cup melted butter, 1 tbsp honey, 1 tsp garlic powder, 1 tsp paprika, 1/2 tsp cayenne pepper",
           "picture": "https://images.unsplash.com/photo-1608039755401-742074f0548d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80",
           "category_id": 6,
-          "rating" : 4.9
+          "rating" : 4.9,
+          "cooking_method": "To cook Buffalo Wings, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
         },
         {
           "id": 25,
           "name": "Grilled Cheese Sandwich",
-          "recipe": "4 slices bread, 2 tbsp butter, 2 slices cheddar cheese",
+          "ingredients": "4 slices bread, 2 tbsp butter, 2 slices cheddar cheese",
           "picture": "https://images.unsplash.com/photo-1528736235302-52922df5c122?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=954&q=80",
           "category_id": 6,
-          "rating" : 4.2
+          "rating" : 4.2,
+          "cooking_method": "To cook Grilled Cheese Sandwich, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
         },
         {
           "id": 26,
           "name": "Corn on the Cob",
-          "recipe": "4 ears of corn, 4 tbsp butter, salt and pepper to taste",
+          "ingredients": "4 ears of corn, 4 tbsp butter, salt and pepper to taste",
           "picture": "https://images.unsplash.com/photo-1548365329-6adbd5e89128?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
           "category_id": 6,
-          "rating" : 4.6
+          "rating" : 4.6,
+          "cooking_method": "To cook Corn on the Cob, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
         },
         {
           "id": 27,
           "name": "Potato Salad",
-          "recipe": "2 lbs potatoes, 1/2 cup mayonnaise, 1/4 cup chopped onion, 1/4 cup chopped celery, 2 tbsp chopped fresh parsley, 1 tbsp Dijon mustard, 1 tsp salt, 1/2 tsp black pepper",
+          "ingredients": "2 lbs potatoes, 1/2 cup mayonnaise, 1/4 cup chopped onion, 1/4 cup chopped celery, 2 tbsp chopped fresh parsley, 1 tbsp Dijon mustard, 1 tsp salt, 1/2 tsp black pepper",
           "picture": "https://plus.unsplash.com/premium_photo-1676313449501-8ed94e22a65b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
           "category_id": 1,
-          "rating" : 4.2
+          "rating" : 4.2,
+          "cooking_method": "To cook Potato Salad, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
         },
         {
           "id": 28,
           "name": "Apple Pie",
-          "recipe": "1 pie crust, 6 cups sliced apples, 1/2 cup sugar, 1/4 cup flour, 1 tsp cinnamon, 1/4 tsp nutmeg, 2 tbsp butter",
+          "ingredients": "1 pie crust, 6 cups sliced apples, 1/2 cup sugar, 1/4 cup flour, 1 tsp cinnamon, 1/4 tsp nutmeg, 2 tbsp butter",
           "picture": "https://images.unsplash.com/photo-1562007908-17c67e878c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
           "category_id": 5,
-          "rating" : 4.4
+          "rating" : 4.4,
+          "cooking_method": "To cook Apple Pie, start by selecting the right type of ground beef and seasoning it with salt, pepper, and other seasonings. Divide the meat into equal portions."
         }
 ]

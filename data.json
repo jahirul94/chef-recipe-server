@@ -2,49 +2,55 @@
   {
     "id": 1,
     "name": "Gordon Ramsay",
-    "picture": "https://plus.unsplash.com/premium_photo-1663047080777-a060630ed770?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+    "picture": "https://cdn.vox-cdn.com/thumbor/6u_an2XwZ3g3nH7KdPHNJoxpfM4=/0x0:3000x2147/920x613/filters:focal(1260x834:1740x1314):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/52781927/ramsay_HKlead.0.jpg",
     "experience":"4 years",
     "recipes": 5,
-    "likes": 1000
+    "likes": 1000,
+    "bio_data" : "Hi i'm Gordon Ramsay! I'm a Michelin-starred chef, restaurateur, and TV personality. Follow me for mouth-watering recipes, behind-the-scenes glimpses of my restaurants, and updates on my latest projects. With over 30 years of experience in the culinary industry, I'm passionate about cooking and sharing my knowledge with others. From my home kitchen to my world-renowned restaurants, I'm always striving for excellence and pushing the boundaries of what's possible. Let's get cooking! #GordonRamsay #ChefLife #Foodie "
   },
   {
     "id": 2,
-    "name": "Mark Adair",
-    "picture": "https://images.unsplash.com/photo-1488905971602-47901d26961b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "name": "Catherine Ann Cora",
+    "picture": "https://www.finedininglovers.com/sites/g/files/xknfdk626/files/2021-05/Catherine_ann_cora_%C2%A9courtesyofCatherineAnnCora_0.jpg",
     "experience":"2.5 years",
     "recipes": 4,
-    "likes": 8000
+    "likes": 8000,
+    "bio_data" : "Hi , I'm Catherine Ann ‘Cat’ Cora will be best known to millions of Americans for my role on Food Network’s Iron Chef of America, where she served as the show’s only female Iron Chef for ten series from 2005. i was also co-host of Bravo’s Around the World in 80 Plates, and owns multiple restaurants in the US and abroad, including the award-winning Ocean by Cat Cora, Kouzzina by Cat Cora at Disney World, CCQ at Macy’s, Postino in San Francisco’s East Bay, as well as Olilo by Cat Cora and Wicked Eats by Cat Cora, with over 500 pop-ups across the country."
   },
   {
     "id": 3,
     "name": "Bobby Flay",
-    "picture": "https://plus.unsplash.com/premium_photo-1664475300338-139f4621939f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "picture": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/10/1/0/BY2205_portrait.jpg.rend.hgtvcom.616.462.suffix/1569958104821.jpeg",
     "experience":"5 years",
     "recipes": 6,
-    "likes": 900
+    "likes": 900,
+    "bio_data" : "Hi I'm Bobby Flay's ! I'm a celebrity chef and restaurateur with over 30 years of experience in the culinary industry. Here you'll find my latest recipes, cooking tips, and behind-the-scenes glimpses of my restaurants and TV projects. Let's explore the world of food together. #BobbyFlay #ChefLife #Foodie"
   },
   {
     "id": 4,
     "name": "Julia Child",
-    "picture": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcS5qwJUPhnSv4hhdLZaGY77JMN6s-K2-t-yMc_dtMAO4xzh49u4JQ7GuveXCvMKp_y9DFduvS-u-g097R0",
+    "picture": "https://cdn.britannica.com/10/198710-050-D3365128/Julia-Child-1978.jpg",
     "experience": "1 years",
     "recipes": 5,
-    "likes": 7500
+    "likes": 7500,
+    "bio_data" : "Hi I'm Julia Child, the iconic American chef and television personality. With her warm personality and passion for French cuisine, Julia inspired millions of home cooks to try new recipes and techniques. On this website, you'll find her classic recipes, cooking tips, and videos of her most memorable TV appearances. Julia's legacy continues to influence the culinary world today, and we invite you to discover the joy of cooking with her. #JuliaChild #FrenchCuisine #CookingLegend"
   },
   {
     "id": 5,
     "name": "Emeril Lagasse",
-    "picture": "https://pbs.twimg.com/media/FlEva9sXkAA524A?format=jpg&name=large",
+    "picture": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2008/8/8/0/79660_02_Emeril_s4x3.jpg.rend.hgtvcom.616.462.suffix/1383083796096.jpeg",
     "experience":"3 years",
     "recipes": 4,
-    "likes": 8500
+    "likes": 8500,
+    "bio_data" : "Hi I'm Emeril Lagasse, one of America's most beloved chefs. With his signature catchphrases and flavorful recipes, Emeril has become a household name. On this website, you'll find his latest recipes, cooking tips, and behind-the-scenes glimpses of his restaurants and TV projects. Emeril is also passionate about giving back to the community and supporting local farmers and artisans. Join him on this culinary journey and let's kick it up a notch in the kitchen! #EmerilLagasse #ChefLife #Foodie"
   },
   {
     "id": 6,
     "name": "Nigella Lawson",
-    "picture": "https://plus.unsplash.com/premium_photo-1664475451484-9bd935c86f3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+    "picture": "https://img.delicious.com.au/fwRpooQ6/w759-h506-cfill/del/2016/01/14-things-nigella-taught-us-this-week-in-sydney-26073-3.jpg",
     "experience": "2 years",
     "recipes": 4,
-    "likes": 950
+    "likes": 950,
+    "bio_data" : "Hi I'm Nigella Lawson, the acclaimed British food writer and TV personality. With her relaxed cooking style and indulgent recipes, Nigella has become a beloved figure in the culinary world. On this website, you'll find her latest recipes, cooking tips, and insights into her personal food philosophy. Nigella is also passionate about encouraging people to enjoy cooking and sharing food with loved ones. Join her on this delicious journey and let's celebrate the joy of home cooking together! #NigellaLawson #HomeCooking #Foodie"
   }
 ]

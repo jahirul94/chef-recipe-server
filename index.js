@@ -21,6 +21,12 @@ app.get('/:id' , (req , res ) =>{
      res.send(selectedItems)
 })
 
+app.get('/user/:id' , (req , res ) =>{
+     const paramsId = req.params.id;
+     const selectedItem = data.find(dt => dt.id == paramsId )
+     res.send(selectedItem)
+})
+
 app.listen(port , ()=>{
-    console.log(`Dragon news Running on port`);
+    console.log(`Chef page Running on port : ${port}`);
 })
